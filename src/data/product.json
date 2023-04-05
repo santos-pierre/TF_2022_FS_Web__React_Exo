@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 13 Pro Max",
+    "price": 1500,
+    "promo": true
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S21 Ultra",
+    "price": 1199.99,
+    "promo": false
+  },
+  {
+    "id": 3,
+    "name": "Sony PlayStation 5",
+    "price": 499.99,
+    "promo": true
+  },
+  {
+    "id": 4,
+    "name": "LG OLED TV CX Series",
+    "price": 2499.99,
+    "promo": true
+  },
+  {
+    "id": 5,
+    "name": "Dyson V11 Absolute Vacuum Cleaner",
+    "price": 800,
+    "promo": false
+  },
+  {
+    "id": 6,
+    "name": "Bose QuietComfort 35 II Wireless Headphones",
+    "price": 299.99,
+    "promo": false
+  },
+  {
+    "id": 7,
+    "name": "Fitbit Versa 3 Smartwatch",
+    "price": 229.99,
+    "promo": true
+  },
+  {
+    "id": 8,
+    "name": "Nespresso Vertuo Coffee and Espresso Maker",
+    "price": 199.5,
+    "promo": false
+  },
+  {
+    "id": 9,
+    "name": "Nintendo Switch",
+    "price": 299.99,
+    "promo": true
+  },
+  {
+    "id": 10,
+    "name": "GoPro HERO9 Black Action Camera",
+    "price": 449.99,
+    "promo": false
+  },
+  {
+    "id": 11,
+    "name": "Instant Pot DUO60 Pressure Cooker",
+    "price": 119.99,
+    "promo": true
+  },
+  {
+    "id": 12,
+    "name": "Microsoft Surface Laptop 4",
+    "price": 1199.42,
+    "promo": false
+  },
+  {
+    "id": 13,
+    "name": "Apple AirPods Pro",
+    "price": 249.99,
+    "promo": true
+  },
+  {
+    "id": 14,
+    "name": "Samsung Galaxy Watch 4",
+    "price": 299.99,
+    "promo": false
+  },
+  {
+    "id": 15,
+    "name": "Amazon Echo Dot (4th Gen) Smart Speaker",
+    "price": 49.45,
+    "promo": true
+  },
+  {
+    "id": 16,
+    "name": "Canon EOS R6 Mirrorless Camera",
+    "price": 2499.99,
+    "promo": true
+  },
+  {
+    "id": 17,
+    "name": "Apple iPad Pro",
+    "price": 799.99,
+    "promo": false
+  },
+  {
+    "id": 18,
+    "name": "Sonos One (Gen 2) Smart Speaker",
+    "price": 199.99,
+    "promo": false
+  },
+  {
+    "id": 19,
+    "name": "Microsoft Xbox Series X",
+    "price": 500.01,
+    "promo": true
+  },
+  {
+    "id": 20,
+    "name": "LG C1 OLED TV",
+    "price": 1799.99,
+    "promo": true
+  }
+]

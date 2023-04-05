@@ -1,0 +1,23 @@
+.product {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5ch;
+  margin-bottom: 1rem;
+
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 1ch;
+}
+
+.product p {
+  margin: 0;
+}
+
+.promo {
+  color: hotpink;
+  font-weight: bold;
+}
+
+.price {
+  font-family :'Courier New', Courier, monospace;
+}
