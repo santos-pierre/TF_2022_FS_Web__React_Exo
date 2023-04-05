@@ -1,0 +1,15 @@
+.welcome-msg {
+  color: chartreuse;
+  font-size: 2rem;
+  font-weight: bold
+}
+
+.age-msg {
+  color: goldenrod;
+  font-size: 1.2rem;
+  font-style: italic;
+}
+
+.bg {
+  background-color: slateblue;
+}
