@@ -62,3 +62,27 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.red {
+	color: red;
+}
+
+.flex {
+  display: flex;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.gap-5 {
+  gap: 1.25rem;
+}
+
+.complete-todo {
+	background: repeating-linear-gradient(45deg, #e66465, #e66465 20px, #9198e5 20px, #9198e5 25px);
+}
